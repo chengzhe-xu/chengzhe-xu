@@ -1,4 +1,5 @@
-- Hi, I’m Chengzhe Xu @chengzhe-xu, Graduate from Stanford EE MS, Fudan Microelectronic Science and Engineering BE.
+- Hi, I’m Chengzhe Xu @chengzhe-xu
+- Graduate from Stanford EE MS, Fudan Microelectronic Science and Engineering BE.
 - I’m interested in CUDA, TensorRT, and Deep learning.
 - How to reach me xuchengzhe2018@gmail.com.
 
